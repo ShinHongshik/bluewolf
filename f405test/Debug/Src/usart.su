@@ -1,0 +1,3 @@
+usart.c:6:19:put_char2	16	static
+usart.c:16:6:my_put_string	16	static
+usart.c:34:6:my_Nput_string	16	static

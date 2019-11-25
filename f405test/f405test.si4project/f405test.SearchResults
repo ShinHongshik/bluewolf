@@ -1,0 +1,6 @@
+---- put_char2 Matches (5 in 3 files) ----
+rs_cmd.h (Src) line 26 : extern void put_char2(char c_data);
+usart.c (Src) line 6 : HAL_StatusTypeDef put_char2( char c_data)
+my_put_string in usart.c (Src) : 	while(put_char2(buf++) == HAL_ERROR);
+my_Nput_string in usart.c (Src) : 				put_char2(*addr);
+usart.h (Src) line 8 : HAL_StatusTypeDef put_char2( char c_data);

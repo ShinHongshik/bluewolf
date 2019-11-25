@@ -1,0 +1,6 @@
+rs_cmd.c:6:5:db_cmd_dummy	0	static
+rs_cmd.c:45:5:help_db_cmd	8	static
+rs_cmd.c:246:5:ver_db_cmd	16	static
+rs_cmd.c:215:5:dbg_db_cmd	48	static
+rs_cmd.c:59:6:mycmdcmp_P	16	static
+rs_cmd.c:99:6:rs_rece_db	160	static
